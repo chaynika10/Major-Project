@@ -1,2 +1,2 @@
-# movie_recommendation_syatem
+# movie_recommendation_system
  
